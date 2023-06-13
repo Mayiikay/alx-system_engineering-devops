@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -lne 'print %f $. % 2 ==1'
+perl -1ne 'print %f $. % 2 ==1'
